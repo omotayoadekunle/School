@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+    <link rel="icon" href="assets/aboutus.jpeg" />
+  </head>
+  <body>
+    <!-- header start -->
+    <section class="header">
+      <h2>Schoolweb</h2>
+      <nav class="class">
+        <a href="#home">Home</a>
+        <a href="#about-us">About Us</a>
+        <a href="#testimonial">Testimonial</a>
+        <a href="#contact">Contact Us</a>
+      </nav>
+    </section>
+
+    <!-- home start -->
+    <section class="home" id="home">
+      <div class="image-wrapper">
+        <div class="wrapper-text">
+          <h1 class="slide-left">
+            <p class="slide-left">
+              Where education are been taught with good specialist for the
+              students who we belive are ready to learn and become a great
+              achiever
+            </p>
+          </h1>
+        </div>
+      </div>
+    </section>
+
+    <!-- about us start -->
+    <section class="about" id="about-us">
+      <div class="about-content">
+        <img src="assets/aboutus.jpeg" class="about-img" alt="about-img" />
+        <div class="about-text">
+          <h2>About Us</h2>
+          <h5>Founded in <span>2000</span></h5>
+          <p>
+            We offer a wide range of services in our school to boost the
+            academic, moral, mental health, physical health of the student like
+            sports outing and many more. Where education are been taught with
+            good specialist for the students who we believe are ready to learn
+            and become a great achievers. Make an enquiry today to know more
+            about our school, curriculm, gain ambission and other activities.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- school start -->
+    <section class="school">
+      <h1>Our School</h1>
+      <div class="school-p">
+        We offer a wide range of services in our school to boost the academic,
+        moral, mental health, physical health of the students like sports outing
+        and many more.
+      </div>
+
+      <div class="slides">
+        <div class="slide">
+          <img class="slide_img" src="assets/img1.png" alt="img 1" />
+        </div>
+        <div class="slide slide-two">
+          <img class="slide_img" src="assets/img3.jpg" alt="img 2" />
+        </div>
+        <div class="slide slide-three">
+          <img class="slide_img" src="assets/basket1.jpeg" alt="img 3" />
+        </div>
+        <div class="slide slide-four">
+          <img class="slide_img" src="assets/basket2.jpg" alt="img 4" />
+        </div>
+      </div>
+    </section>
+
+    <!-- textimonial start -->
+    <section class="textimonial" id="textimonial">
+      <h1>Textimonial</h1>
+      <div class="wrapper">
+        <div class="box">
+          <i class="fas fa-quote-left quote"></i>
+          <p>
+            Coming to this school has really impacted alot in me now that i can
+            be more good in my academic performance. Another thing is that this
+            school engage other extra curriculum activities like outings,
+            sports, competition, games and many more.
+          </p>
+          <div class="content">
+            <div class="info">
+              <div class="name">Adnan Lawal</div>
+              <div class="job">SS2 Student</div>
+              <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+              </div>
+            </div>
+            <div class="image">
+              <img src="assets/hakeem.PNG" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="box box-1">
+          <p>
+            Coming to this school has really impacted alot in me now that i can
+            be more good in my academic performance. Another thing is that this
+            school engage other extra curriculm activities like outings, sports,
+            competitions, games and many more.
+          </p>
+          <div class="content">
+            <div class="info">
+              <div class="name">Kunle Olawale</div>
+              <div class="job">SS3 Student</div>
+            </div>
+            <div class="image">
+              <img src="assets/kunle.PNG" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="box box-11">
+          <p>
+            I am really proud of being part of this prestigious coming here you
+            will learn alot, make a lot friends. Engeging in sport like
+            Basketball, Football
+          </p>
+          <div class="content">
+            <div class="info">
+              <div class="name">Mary Jannet</div>
+              <div class="job">Old Student</div>
+            </div>
+            <div class="image">
+              <img src="assets/mary.PNG" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="box box">
+          <p>
+            I am really proud of being part of this prestigious coming here you
+            will learn alot, make a lot friends. Engeging in sport like
+            Basketball, Football
+          </p>
+          <div class="content">
+            <div class="info">
+              <div class="name">Hameenah Salaudeen</div>
+              <div class="job">SS2 Student</div>
+            </div>
+            <div class="image">
+              <img src="assets/hameenah.jpg" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="box box-2">
+          <p>
+            For me i will advice anyone who wants to be academically strong to
+            come this amazing because life in this school is the best you learnt
+            so many things that will impact postively to your life as a bring
+          </p>
+          <div class="content">
+            <div class="info">
+              <div class="name">Ibrahim Abdulbaki</div>
+              <div class="job">Old Student</div>
+            </div>
+            <div class="image">
+              <img src="assets/Ibrahim.PNG" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- contact start -->
+    <section class="contact" id="contact">
+      <h1>Contact Us</h1>
+
+      <div class="contact-p">
+        <p>
+          Make and enquiry today to know more about our school, curriculm, gain
+          ambission and other activities
+        </p>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="contact-form">
+            <form
+             action="" 
+             class="form"
+             >
+              <div class="row">
+                <div class="input-group">
+                  <input
+                    type="text"
+                    placeholder="First Name"
+                    class="input-control"
+                    value=""
+                  />
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="input-group w50">
+                  <input
+                    type="text"
+                    placeholder="Email"
+                    class="input-control"
+                    value=""
+                  />
+                </div>
+
+                <div cla99998input-group w50">
+                  <input
+                    type="text"
+                    placeholder="Phone Number"
+                    class="input-control"
+                    value=""
+                  />
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="input-group">
+                  <select class="input-control Select">
+                    <option value="Please Select">Please Select</option>
+                    <option value="Gain Admission">Gain Admission</option>
+                    <option value="J.S.S 1">J.S.S 1</option>
+                    <option value="J.S.S 2">J.S.S 2</option>
+                    <option value="J.S.S 3">J.S.S 3</option>
+                    <option value="S.S.S 1">S.S.S 1</option>
+                    <option value="S.S.S 2">S.S.S 2</option>
+                    <option value="S.S.S 3">S.S.S 3</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="input-group">
+                  <textarea
+                    placeholder="Message"
+                    class="Input-control"
+                    id="Message"
+                  ></textarea>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="input-group">
+                  <button type="submit" class="btn">send</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
